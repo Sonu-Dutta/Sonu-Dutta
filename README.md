@@ -26,7 +26,7 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
 <img src="./assest/sass.png" alt="sass" width="35" height="35"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="./assest/j.png" alt="java" width="40" height="40"/> </a> 
+<img src="./assest/java.png" alt="java" width="40" height="40"/> </a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="./assest/js.png" alt="javascript" width="40" height="40"/> </a>
