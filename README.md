@@ -44,14 +44,14 @@
 
 <br><br>
 
-<p align="center">
+<p>
 
 [![Rohit-MyRG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonu-Dutta)](https://github.com/Sonu-Dutta/github-readme-stats)
 </p>
 
 
 <br/>
-<p align="center">
+<p>
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonu-Dutta&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
 <br>
