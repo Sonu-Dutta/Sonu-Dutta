@@ -46,7 +46,7 @@
 
 <p>
 
-[![Rohit-MyRG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonu-Dutta&hide_border=true&theme=dark)](https://github.com/Sonu-Dutta/github-readme-stats)
+[![Rohit-MyRG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonu-Dutta&show_icons=true&hide_border=true&theme=dark)](https://github.com/Sonu-Dutta/github-readme-stats)
 </p>
 
 
