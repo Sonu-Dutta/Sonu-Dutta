@@ -75,6 +75,7 @@
 	</a>
 </p>
 <br>
+
 # Contributions
 <h4>Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
 <p>
