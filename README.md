@@ -1,10 +1,11 @@
 <h1 align="center">Hello there! 👩🏻‍💻, I'm Sonu Dutta</h1>
 <h3 align="center">Frontend development enthusiast</h3>
 
+- 👨‍💻 I have an intermediate to advanced knowledge of **Python**
 - 🔭 I’m currently working on **JavaScript**
 - 🌱 I’m currently learning **Php**
 - 🌸 I love exploring and learning new things!
-- 💬 Ask me about **HTML 5, CSS 3, Bootstrap 5, javascript**
+- 💬 Ask me about **Python, HTML 5, CSS 3, Bootstrap 5, javascript**
 - 📫 How to reach me **itsmesonudutta@gmail.com**
 - ⚡ Fun fact **I am made of flaws but stitched up to perfection.**
 
@@ -22,10 +23,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40px" height="40px">
  &nbsp
- <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px" height="40px"> 
-&nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px" height="40px"> 
-&nbsp
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
