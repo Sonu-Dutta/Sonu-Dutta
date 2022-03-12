@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 🙋🏻‍♀️, I'm Sonu Dutta</h1>
+<h1 align="center">Hello there! 🙋🏻‍♀️ I'm Sonu Dutta</h1>
 <h3 align="center">Frontend development enthusiast</h3>
 
 - 👩🏻‍🎓 I have an intermediate to advanced knowledge of **Python**
