@@ -59,30 +59,6 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu-Dutta&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </p>
 <br>
-<h4>Views of all repositories (updated daily)</h4>
-<p>
-	<a href="https://github.com/Sonu-Dutta/my_github_profile_views_counter">
-		<img width="135em" src="https://github.com/Sonu-Dutta/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
-	</a>
-</p>
-<br>
-
-# Languages
-<h4>Most used languages (by number of commits)</h4>
-<p>
-	<a href="https://profile.codersrank.io/user/Sonu-Dutta#Tech%20Skills">
-		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sonu-Dutta&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
-	</a>
-</p>
-<br>
-
-# Contributions
-<h4>Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
-<p>
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
