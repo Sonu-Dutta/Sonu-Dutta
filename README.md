@@ -55,6 +55,10 @@
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonu-Dutta&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
 <br>
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu-Dutta&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+</p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
