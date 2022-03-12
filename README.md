@@ -32,11 +32,11 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="./assest/js.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="./assest/p.png" alt="php" width="40" height="40"/> </a> 
 <img src ="./assest/tailwind.png" width="40px" height="40px">
-
-<img src="./assest/msql.png" alt="mysql" width="45" height="45"/> </a>  
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="./assest/msql.png" alt="mysql" width="45" height="45"/> </a>
 <img src ="./assest/git.png" width="40px" height="40px">
 
 
