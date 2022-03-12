@@ -48,7 +48,10 @@
 [![Sonu-Dutta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonu-Dutta)](https://github.com/Sonu-Dutta/github-readme-stats)
 
 <br/>
-
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonu-Dutta&include_all_commits=true&hide_border=true&theme=dark"/>
+</p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
