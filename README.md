@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="43" height="43"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="./assest/b.png" alt="bootstrap" width="33" height="33"/> </a> 
-<img src ="./assest/python.png" width="40px" height="40px">
+<img src ="./assest/python.png" width="42px" height="42px">
 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
