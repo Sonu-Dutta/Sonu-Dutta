@@ -44,8 +44,9 @@
 
 <br><br>
 
-
+<p align="center">
 [![Sonu-Dutta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonu-Dutta)](https://github.com/Sonu-Dutta/github-readme-stats)
+</p>
 
 <br/>
 <p align="center">
