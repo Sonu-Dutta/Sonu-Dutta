@@ -4,7 +4,7 @@
 - 👩🏻‍🎓 I have an intermediate to advanced knowledge of **Python**
 - 🔭 I’m currently working on **JavaScript**
 - 🌱 I’m currently learning **Php**
-- 🌸 I love exploring and learning new things!
+- 🦋 I love exploring and learning new things!
 - 💬 Ask me about **Python, HTML 5, CSS 3, Bootstrap 5, javascript**
 - 📫 How to reach me **itsmesonudutta@gmail.com**
 - ⚡ Fun fact **I am made of flaws but stitched up to perfection.**
