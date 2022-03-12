@@ -44,9 +44,8 @@
 
 <br><br>
 
-
 <p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonu-Dutta&include_all_commits=true&hide_border=true&theme=dark"/>
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Sonu-Dutta&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 </p>
 
 
