@@ -45,7 +45,8 @@
 <br><br>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Sonu-Dutta&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+
+[![Rohit-MyRG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-MyRG)](https://github.com/Rohit-MyRG/github-readme-stats)
 </p>
 
 
