@@ -1,10 +1,10 @@
-<h1 align="center">Hello there! 👩🏻‍💻, I'm Sonu Dutta</h1>
+<h1 align="center">Hello there! 🙋🏻‍♀️ I'm Sonu Dutta</h1>
 <h3 align="center">Frontend development enthusiast</h3>
 
-- 👨‍💻 I have an intermediate to advanced knowledge of **Python**
+- 👩🏻‍🎓 I have an intermediate to advanced knowledge of **Python**
 - 🔭 I’m currently working on **JavaScript**
 - 🌱 I’m currently learning **Php**
-- 🌸 I love exploring and learning new things!
+- 🦋 I love exploring and learning new things!
 - 💬 Ask me about **Python, HTML 5, CSS 3, Bootstrap 5, javascript**
 - 📫 How to reach me **itsmesonudutta@gmail.com**
 - ⚡ Fun fact **I am made of flaws but stitched up to perfection.**
@@ -16,12 +16,12 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="43" height="43"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="43" height="43"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="./assest/b.png" alt="bootstrap" width="33" height="33"/> </a> 
-<img src ="./assest/python.png" width="40px" height="40px">
+<img src ="./assest/python.png" width="42px" height="42px">
 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
