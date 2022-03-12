@@ -46,7 +46,7 @@
 
 <p align="center">
 
-[![Rohit-MyRG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-MyRG)](https://github.com/Rohit-MyRG/github-readme-stats)
+[![Rohit-MyRG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonu-Dutta)](https://github.com/Sonu-Dutta/github-readme-stats)
 </p>
 
 
