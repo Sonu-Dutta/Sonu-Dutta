@@ -44,9 +44,11 @@
 
 <br><br>
 
+
 <p align="center">
-[![Sonu-Dutta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonu-Dutta)](https://github.com/Sonu-Dutta/github-readme-stats)
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonu-Dutta&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
+
 
 <br/>
 <p align="center">
