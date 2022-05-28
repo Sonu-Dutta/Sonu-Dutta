@@ -38,7 +38,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="./assest/msql.png" alt="mysql" width="45" height="45"/> </a>
 <img src ="./assest/git.png" width="40px" height="40px">
-
+<img src ="./assest/jq.webp" width="40px" height="40px">
+<img src ="./assest/node.png" width="40px" height="40px">
+<img src ="./assest/mongodb.png" width="40px" height="40px">
 
 <p> So that's all about me 😇</p>
 
