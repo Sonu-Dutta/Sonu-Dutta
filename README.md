@@ -46,7 +46,6 @@
 <img src ="./assest/jq.webp" width="40px" height="40px">
 <img src ="./assest/mongodb.png" width="40px" height="40px"> 
 <img src ="./assest/react-native-logo.png" width="40px" height="40px">
-<img src ="./assest/typescript.html" width="40px" height="40px">
 <img src ="./assest/angular.png" width="40px" height="40px">
 <img src ="./assest/vue.png" width="40px" height="40px">
 <img src ="./assest/next.png" width="40px" height="40px">
